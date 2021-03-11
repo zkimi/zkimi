@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
+🌱 I am currently a student in computer science.
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zkimi.zkimi">
+</p>
 <!--
 **zkimi/zkimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
