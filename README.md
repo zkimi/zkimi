@@ -1,7 +1,7 @@
 # Hi there 👋
 
-🌱 I am currently a student in computer science.
-🎢 I work at Disneyland Paris.
+🌱 I am currently a student in computer science.<br>
+🎢 I work at Disneyland Paris.<br>
 💻 I 💖 web development.
 
 <p align="center">
